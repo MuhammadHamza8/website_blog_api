@@ -8,6 +8,8 @@ const postRoute = require("./routes/posts");
 const categoryRoute = require("./routes/categories");
 dotenv.config();
 
+// testing for branch
+
 const multer = require("multer");
 const path = require("path");
 
